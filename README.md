@@ -96,6 +96,7 @@ network:
 ```
 sudo netplan try
 ```
+```
 sudo netplan apply
 ```
 ```
