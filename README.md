@@ -113,3 +113,14 @@ sudo ip link set ens224 up
 ip a
 ```
 
+3. Les 2 premieres lignes permettent d'inclure du temps avant l'expiration de l'adresse ip.
+
+4. 
+```
+INTERFACESv4="enp0s8"
+```
+5. 
+
+![image](https://user-images.githubusercontent.com/77662970/192467902-2c2f936a-c997-4159-8f2f-5b0d06516f6c.png)
+
+
