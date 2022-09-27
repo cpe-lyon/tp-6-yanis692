@@ -123,4 +123,23 @@ INTERFACESv4="enp0s8"
 
 ![image](https://user-images.githubusercontent.com/77662970/192467902-2c2f936a-c997-4159-8f2f-5b0d06516f6c.png)
 
+6.
+
+![image](https://user-images.githubusercontent.com/77662970/192484627-25aa40c3-c780-4a31-a2e5-1ad7f99135ea.png)
+
+![image](https://user-images.githubusercontent.com/77662970/192484959-c97f12ad-ab8a-44a8-85b6-9912ed4e49f3.png)
+
+7. 
+
+![image](https://user-images.githubusercontent.com/77662970/192486215-28ac2f1e-925a-49f3-ab6c-de808ed05eb6.png)
+
+8. Le fichier dhcp-lease-list contient différentes informations sur les requête et le clients.
+La commande
+``` 
+sudo dhcp-lease-list
+```
+affiche différentes informations sur le clients :
+
+![image](https://user-images.githubusercontent.com/77662970/192491730-50ea8d8a-d962-4309-83b8-757b92a9cb53.png)
+
 
