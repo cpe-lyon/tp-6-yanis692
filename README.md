@@ -182,3 +182,38 @@ puis on ping
 
 # Exercice 5
 
+1.
+
+![image](https://user-images.githubusercontent.com/77662970/193465587-6e03e7f4-b12f-4434-8438-1d2a3cb515fe.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/77662970/193465714-91fa568f-22fb-4cde-abc2-638836164c3d.png)
+
+3.
+```
+ping www.google.com
+```
+![image](https://user-images.githubusercontent.com/77662970/193465747-fb157f6b-9616-4b0c-8a6f-6718534bc353.png)
+
+4.
+```
+lynx fr.wikipedia.org
+```
+
+![image](https://user-images.githubusercontent.com/77662970/193466205-c5cd7e38-731b-48b0-9609-60b17a293bd7.png)
+
+# Exercice 6
+
+1.
+
+![image](https://user-images.githubusercontent.com/77662970/193466627-6536d431-29e8-4294-80f3-12d5c0fef3c3.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/77662970/193466696-5feac532-e6cb-4c16-bd37-e151d105d58f.png)
+
+
+![image](https://user-images.githubusercontent.com/77662970/193467031-f63dfdf2-c08c-479f-ad2f-202376fbb635.png)
+
+
