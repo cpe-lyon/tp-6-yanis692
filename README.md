@@ -165,3 +165,20 @@ On rajoute cette configuration aux fichier dhcpd.conf
 puis on applique les changement avec ```dhcpd -t``` puis on restart le serveur, on regarde le status de celui-ci si tout est bon on passe coter client pour faire ```dhclient -v``` puis ```ip a``` et normalement la configuration est réussie :
 
 ![image](https://user-images.githubusercontent.com/77662970/193464040-36da97a6-c47f-4124-bc27-7bdecc996b34.png)
+
+# Exercice 4
+
+1.
+
+![image](https://user-images.githubusercontent.com/77662970/193464456-bc7ab673-c57d-4007-b5b1-09463dd9e80d.png)
+
+2.
+On rentre cette commande coter serveur 
+```
+sudo iptables --table nat --append POSTROUTING --out-interface ens192 -j MASQUERADE
+```
+puis on ping
+![image](https://user-images.githubusercontent.com/77662970/193465356-6d3be6c9-c3f9-4072-9882-1ad059de7d8b.png)
+
+# Exercice 5
+
