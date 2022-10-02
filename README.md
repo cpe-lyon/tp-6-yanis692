@@ -135,7 +135,13 @@ INTERFACESv4="ens224"
 
 7. 
 
-![image](https://user-images.githubusercontent.com/77662970/192486215-28ac2f1e-925a-49f3-ab6c-de808ed05eb6.png)
+![image](https://user-images.githubusercontent.com/77662970/193459834-169b0b2c-a4a4-40db-ac06-85106e12d8af.png)
+
+DHCPDISCOVER : sert à détecter les serveurs DHCP disponibles
+DHCPOFFER : répond à un paquet DHCPDISCOVER
+DHCPREQUEST : correspond à une requête du client
+DHCPACK : ne réponse du serveur. Elle inclut des paramètres et l'adresse IP du client
+
 
 8. Le fichier dhcp-lease-list contient différentes informations sur les requête et le clients.
 La commande
