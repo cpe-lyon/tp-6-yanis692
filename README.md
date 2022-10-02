@@ -120,7 +120,7 @@ ip a
 
 4. 
 ```
-INTERFACESv4="enp0s8"
+INTERFACESv4="ens224"
 ```
 5. 
 
