@@ -14,54 +14,13 @@ réparties en 7 sous-réseaux. La répartition des machines est la suivante :
 Donnez, pour chaque sous-réseau, l’adresse de sous-réseau, l’adresse de broadcast (multidiffusion) ainsi
 que les adresses de la première et dernière machine configurées (précisez si vous utilisez du VLSM ou pas).
 
-SS-1 =
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000000.00000000 = 
-172.16.0.0/26
-Adresse de la première machine = 172.16.0.1/26 Adresse Broadcast =
-
-SS-2 = 
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000000.01000000 =
-172.16.0.64/26
-Adresse de la première machine = 172.16.0.65/26
-
-SS-3 =
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000000.11000000 =
-172.16.0.192/26
-Adresse de la première machine = 172.16.0.193/26
-
-SS-4 = 
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000001.11000000 =
-172.16.1.192/26
-Adresse de la première machine = 172.16.1.193/26
-
-SS-5 = 
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000001.000000 =
-172.16.1.0/26
-Adresse de la première machine = 172.16.1.1/26
-
-SS-6 = 
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000000.10000000 =
-172.16.0.128/26
-Adresse de la première machine = 172.16.0.129/26
-
-SS-7 = 
-172.16.0.0/24
-8 + 8 + 7 + 0
-11111111.11111111.00000001.01000000 =
-172.16.1.64/26
-Adresse de la première machine = 172.16.1.65/26
+172.16.0.0/26 -> sous réseaux 3 (52 machines), adresse de broadcast : 172.16.0.63/26, première adresse : 172.16.0.1/26, dernière adresse : 172.16.0.62/26 
+172.16.0.64/26 -> sous réseaux 1 (38 machines), adresse de broadcast : 172.16.0.127/26, première adresse : 172.16.0.65/26, dernière adresse : 172.16.0.126/26
+172.16.0.128/26 -> sous réseaux 6 (37 machines), adresse de broadcast : 172.16.0.191/26, première adresse : 172.16.0.129/26, dernière adresse : 172.16.0.190/26 //
+172.16.0.192/26 -> sous réseaux 4 (35 machines), adresse de broadcast : 172.16.0.255/26, première adresse : 172.16.0.193/26, dernière adresse : 172.16.0.254/26 //
+172.16.1.0/26 -> sous réseaux 5 (34 machines), adresse de broadcast : 172.16.1.63/26, première adresse : 172.16.1.1/26, dernière adresse : 172.16.1.62/26 //
+172.16.1.64/26 -> sous réseaux 2 (33 machines), adresse de broadcast : 172.16.1.127/26, première adresse : 172.16.1.65/26, dernière adresse : 172.16.1.126/26
+172.16.1.128/27 -> sous réseaux 7 (25 machines), adresse de broadcast : 172.16.1.159/27, première adresse : 172.16.1.129/27, dernière adresse : 172.16.1.158/27
 
 # Exercice 2. Préparation de l’environnement
 
