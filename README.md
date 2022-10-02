@@ -216,4 +216,23 @@ lynx fr.wikipedia.org
 
 ![image](https://user-images.githubusercontent.com/77662970/193467031-f63dfdf2-c08c-479f-ad2f-202376fbb635.png)
 
+3.
+
+![image](https://user-images.githubusercontent.com/77662970/193470006-f0e1796b-f885-4c95-86ae-4d5c1f55ba36.png)
+
+
+![image](https://user-images.githubusercontent.com/77662970/193469958-cb529e6d-2a2d-49f9-96b5-b8f83083bfa5.png)
+
+4.
+ 
+ ![image](https://user-images.githubusercontent.com/77662970/193470154-afbe5685-4242-4113-9bf0-6537f5227401.png)
+
+
+![image](https://user-images.githubusercontent.com/77662970/193470164-ac6bc08f-1ee1-4e15-954f-22b82620df86.png)
+
+5.
+
+![image](https://user-images.githubusercontent.com/77662970/193470547-5bc689cf-fe7c-40fe-b207-d8a7b4ddaa46.png)
+
+![image](https://user-images.githubusercontent.com/77662970/193470497-fa7835d7-cbfc-4e7c-aef2-1dee03180dc5.png)
 
