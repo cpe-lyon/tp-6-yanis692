@@ -115,6 +115,9 @@ ip a
 
 3. Les 2 premieres lignes permettent d'inclure du temps avant l'expiration de l'adresse ip.
 
+![image](https://user-images.githubusercontent.com/77662970/193455559-a560a1fe-3b31-4c4d-b43d-b088b7db4195.png)
+
+
 4. 
 ```
 INTERFACESv4="enp0s8"
