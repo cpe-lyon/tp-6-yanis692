@@ -128,7 +128,8 @@ INTERFACESv4="ens224"
 
 6.
 
-![image](https://user-images.githubusercontent.com/77662970/192484627-25aa40c3-c780-4a31-a2e5-1ad7f99135ea.png)
+![image](https://user-images.githubusercontent.com/77662970/193458849-b94e2335-6bfe-4a19-abde-8c6f73cdad49.png)
+
 
 ![image](https://user-images.githubusercontent.com/77662970/192484959-c97f12ad-ab8a-44a8-85b6-9912ed4e49f3.png)
 
