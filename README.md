@@ -158,4 +158,10 @@ ping 192.168.100.100
 ```
 ![image](https://user-images.githubusercontent.com/77662970/193460290-9eec4a5b-1787-4b5d-b3d6-cc098d73998e.png)
 
+10.
+On rajoute cette configuration aux fichier dhcpd.conf
+![image](https://user-images.githubusercontent.com/77662970/193463773-12ae750b-03ca-4352-9b6a-22704aa7d418.png)
 
+puis on applique les changement avec ```dhcpd -t``` puis on restart le serveur, on regarde le status de celui-ci si tout est bon on passe coter client pour faire ```dhclient -v``` puis ```ip a``` et normalement la configuration est réussie :
+
+![image](https://user-images.githubusercontent.com/77662970/193464040-36da97a6-c47f-4124-bc27-7bdecc996b34.png)
