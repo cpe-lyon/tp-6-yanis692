@@ -96,7 +96,7 @@ network:
   ethernets:
     ens192:
       dhcp4: true
-    ense224
+    ens224
       addresses:
         - 192.168.100.1/24
 ```
