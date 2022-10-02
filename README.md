@@ -150,6 +150,12 @@ sudo dhcp-lease-list
 ```
 affiche différentes informations sur le clients :
 
-![image](https://user-images.githubusercontent.com/77662970/192491730-50ea8d8a-d962-4309-83b8-757b92a9cb53.png)
+![image](https://user-images.githubusercontent.com/77662970/193460087-b7e4c922-3824-455b-8632-5f2f96cd86c8.png)
+
+9.
+```
+ping 192.168.100.100
+```
+![image](https://user-images.githubusercontent.com/77662970/193460290-9eec4a5b-1787-4b5d-b3d6-cc098d73998e.png)
 
 
