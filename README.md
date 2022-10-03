@@ -197,7 +197,6 @@ lynx fr.wikipedia.org
 
 5.
 
-![image](https://user-images.githubusercontent.com/77662970/193470616-6d7e1bfd-0221-4911-9ff4-9f9dd7bef264.png)
+![image](https://user-images.githubusercontent.com/77662970/193558100-d8f89389-ead7-415c-b152-c28fc89b20c9.png)
 
-![image](https://user-images.githubusercontent.com/77662970/193470497-fa7835d7-cbfc-4e7c-aef2-1dee03180dc5.png)
 
