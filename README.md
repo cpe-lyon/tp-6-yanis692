@@ -1,5 +1,5 @@
 # tp-6-yanis692
-tp-6-yanis692 created by GitHub Classroom
+
 
 # Exercice 1. Adressage IP (rappels)
 Vous administrez le réseau interne 172.16.0.0/23 d’une entreprise, et devez gérer un parc de 254 machines
