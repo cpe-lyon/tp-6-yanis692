@@ -221,8 +221,7 @@ lynx fr.wikipedia.org
 
 ![image](https://user-images.githubusercontent.com/77662970/193470164-ac6bc08f-1ee1-4e15-954f-22b82620df86.png)
 
-## 5. Redémarrer le serveur Bind9. Vous devriez maintenant être en mesure de « pinguer »les différentes
-machines du réseau.
+## 5. Redémarrer le serveur Bind9. Vous devriez maintenant être en mesure de « pinguer »les différentes machines du réseau.
 
 ![image](https://user-images.githubusercontent.com/77662970/193558100-d8f89389-ead7-415c-b152-c28fc89b20c9.png)
 
